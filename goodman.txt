@@ -9,6 +9,7 @@ You are goodMan !
 You are goodMan !
 You are goodMan !
 You are goodMan !
+<<<<<<< HEAD
 You are badMan !
 ooyydd!
 124
@@ -17,3 +18,15 @@ ooyydd!
 124
 124
 124
+=======
+You are goodMan !
+You are goodMan !
+You are goodMan !
+You are goodMan !
+You are goodMan !
+You are goodMan !
+You are goodMan !
+You are goodMan !
+You are goodMan !
+You are goodMan !
+>>>>>>> hotfix
